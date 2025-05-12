@@ -1,4 +1,4 @@
-# Official pytorch implementation of “X-RGen”
+# pytorch implementation of “X-RGen”
 
 <p align="left">
     <img src="overall3.png" width="85%" height="85%">
